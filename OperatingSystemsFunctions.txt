@@ -1,2 +1,3 @@
 One of the main functions of an operating system is the Loading and execution. A program is loaded in the memory before it can be executed. The Operating system provides the facility to load programs in memory easily and then execute it.
 Another function of an operating system is Device Controlling. It controls all devices attached to computer. The hardware devices are controlled with the help of small software called device drivers.
+Providing Interface is also a function of an operating system. User interface acts with a computer mutually. It controls how you input data and instruction and how information is displayed on screen.
